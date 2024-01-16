@@ -34,3 +34,9 @@ Create addon for chunkloading. Optional imo
 Dependent on [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api)
 
 
+
+
+##### Create: Connected
+[Modrinth](https://modrinth.com/mod/create-connected)   [Wiki](https://github.com/hlysine/create_connected/wiki/New-Features)
+
+More Create utility block
