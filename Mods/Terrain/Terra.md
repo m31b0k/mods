@@ -10,14 +10,13 @@ Terra is a modern world generation modding platform that allows complete customi
 
 Check: 
 [[Integrated Stronghold]]
-[[Repurposed Structures]] 
-[[Towns and Towers]]
-[[Waystones]]? Should technically be fine as it generates inside villages or is an item? <- figure out what to do with this mod lol
-[[Yung's]] - 
-Everything. since it replaces vanilla structures it should be fine? maybe doublecheck some because the footprint of a lot of these are larger than vanilla and that will cause weird floating structures. underground things should be fine. things like the jungle temple, less so
+[[Waystones]]?
 [[Immersive Weathering]]
 
 
 Compatible:
 [[Mythic Metals]]
+[[Repurposed Structures]] 
+[[Towns and Towers]]
+[[Yung's]] - partially
 
