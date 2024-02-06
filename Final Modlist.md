@@ -1,6 +1,6 @@
 No dependencies, just main mod
 
-Required
+Yes
 - Extrablocks
 - Mythic Metals
 - Repurposed Structures
@@ -16,10 +16,7 @@ Required
 - Carry On
 - Disenchanter
 - Snad
-
-Optional
-- Mod menu
-- Sodium
+- Blue's serverside optimization mods
 
 
 Maybe??
@@ -36,3 +33,4 @@ Mods that we kinda probably still need: ocean monuments. I still gotta test this
 more enemies/stronger enemies. I was kinda banking on rotten creatures to update but no
 dungeons: we can just use yungs again but there have to be other ones out there right??
 even more enemies: I really wanna justify simplyswords, even though mythic metals will most likely have enough variation on its own
+gonna watch some videos on them hopefully we got some results :pray:
