@@ -104,6 +104,14 @@ Modlist optional client:
 - EMI + JEI
 - Mod Menu
 
+Modlist optional visuals client:
+- https://modrinth.com/mod/visuality
+- https://modrinth.com/mod/effective
+- https://modrinth.com/mod/entitytexturefeatures & https://modrinth.com/mod/entity-model-features
+- https://www.curseforge.com/minecraft/texture-packs/fresh-animations
+- https://modrinth.com/mod/visual-overhaul
+- https://modrinth.com/mod/lambdynamiclights
+
 
 Libs/utility both:
 - Ferritecore
