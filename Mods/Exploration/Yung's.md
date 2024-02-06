@@ -8,7 +8,7 @@ Various Yung's Structure mods
 [Jungle Temple](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-fabric)
 [Nether Fortress](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-fabric) - Also has create compatibility?
 
-\
+
 #### Dependencies
 [Yung's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric)
 [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)

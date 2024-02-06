@@ -1,11 +1,14 @@
+## New Mods
+- [ ] talk w/ Lyra about Lootr I guess. amount of effort vs amount of benefit
+- [ ] nether mod
+- [x] animal mods (meh)
+- [ ] inventory management mods
+- [x] end mod
+- [x] stronger mob mods (less necessary now ig)
 
-https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-fabric
-https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns
-
+## Configure Existing Mods
 - [ ] loottables dungeons and taverns
 - [ ] config artifacts for rarity items and structures
-- [ ] figure out mythicmetals (video?)
-- [ ] stronger mob mods (less necessary now ig)
+- [x] figure out mythicmetals (video?)
 - [ ] lavender biome (not necessary at all I just think it's cool)
-- [ ] animal mods
-- [ ] inventory management mods
+
