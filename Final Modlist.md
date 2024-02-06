@@ -34,3 +34,8 @@ more enemies/stronger enemies. I was kinda banking on rotten creatures to update
 dungeons: we can just use yungs again but there have to be other ones out there right??
 even more enemies: I really wanna justify simplyswords, even though mythic metals will most likely have enough variation on its own
 gonna watch some videos on them hopefully we got some results :pray:
+
+dungeons and taverns seems to do a good job of dungeons: the only issue is large parts of structures being filled up and some being too large for terra generation
+update: it has to be this one for me. really cool structures, semi-questlines and a good chunk of exploration. love love love this one. structures kan generate fucked but I think the scale of the big ones kinda makes that okay? ask for examples or smthn. Issue: the loot tables are fucked up bad. Solution: is datapack so just. unjar the jar, change files, rejar the jar? possible? idk but hopeful. see if we can change artifacts and mythic metals to include their loot tables into that without having to do that ourselves, I think artifacts injects some loot tables. idk if we can mess with that or if that even is what that does but whatever. 
+mythic metals especially good for this, since rare upgrades can be put in chests for bigger dungeons. riches for easier ones, good strong powerful reward for others. 
+
