@@ -30,6 +30,7 @@ Unfortunately not:
 - while I love the idea of immersive weathering, it somehow fucks with terra terrain gen and turns entire biomes into permafrost (which would be fine if it wasn't literally completely useless and also it just looks less great etc etc.  terra good)
 
 Mods that we kinda probably still need: ocean monuments. I still gotta test this but it has complained multiple times that it can't generate some parts and I don't want that causing crashes
+
 more enemies/stronger enemies. I was kinda banking on rotten creatures to update but no
 dungeons: we can just use yungs again but there have to be other ones out there right??
 even more enemies: I really wanna justify simplyswords, even though mythic metals will most likely have enough variation on its own
