@@ -3,14 +3,11 @@
 Farmer's Delight.
 
 ##### Nether's Delight
-[Curseforge](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)
+[Curseforge](https://www.curseforge.com/minecraft/mc-mods/nethers-delight-fabric)
 
 Nether-themed addon
 
-##### Ender's Delight
-[Curseforge](https://www.curseforge.com/minecraft/mc-mods/enders-delight)
 
-End-themed addon
 ##### Ocean's Delight
 [Curseforge](https://www.curseforge.com/minecraft/mc-mods/oceans-delight)
 
