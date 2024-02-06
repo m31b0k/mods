@@ -32,6 +32,7 @@ Unfortunately not:
 Mods that we kinda probably still need: ocean monuments. I still gotta test this but it has complained multiple times that it can't generate some parts and I don't want that causing crashes
 
 more enemies/stronger enemies. I was kinda banking on rotten creatures to update but no
+
 dungeons: we can just use yungs again but there have to be other ones out there right??
 even more enemies: I really wanna justify simplyswords, even though mythic metals will most likely have enough variation on its own
 gonna watch some videos on them hopefully we got some results :pray:
