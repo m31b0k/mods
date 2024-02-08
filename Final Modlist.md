@@ -129,4 +129,4 @@ Libs/utility both:
 - [playerAnimator](https://www.curseforge.com/minecraft/mc-mods/playeranimator)
 - [AlloyForgery](https://www.curseforge.com/minecraft/mc-mods/alloy-forgery)
 - [OwOLib](https://www.curseforge.com/minecraft/mc-mods/owo-lib)
-- 
+

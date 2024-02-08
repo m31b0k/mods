@@ -1,0 +1,3 @@
+flame_pendant
+fire_gauntlet
+digging claws

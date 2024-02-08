@@ -1,0 +1,4 @@
+cross_necklace
+superstitious_hat
+villager_hat
+

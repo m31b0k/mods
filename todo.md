@@ -1,5 +1,5 @@
 ## New Mods
-- [ ] talk w/ Lyra about Lootr I guess. amount of effort vs amount of benefit
+- [x] talk w/ Lyra about Lootr I guess. amount of effort vs amount of benefit
 - [ ] nether mod
 - [x] animal mods (meh)
 - [ ] inventory management mods
