@@ -110,6 +110,15 @@
           "name": "minecraft:magma_cream"
         }
       ]
-    }
+    },
+	  {
+			"rolls": 1,
+			"entries" [
+				{
+					"name": "minecraft:loot_table",
+					"type": "minecraft:artifacts_witch"
+				}
+			]
+		}
   ]
 }

@@ -1,0 +1,11 @@
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "minecraft:common_spicer"
+        }
+      ]
+    }
+
+

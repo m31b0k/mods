@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+		{
+          "type": "minecraft:loot_table",
+          "weight": 6,
+          "name": "minecraft:artifact"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "artifacts:cross_necklace"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "artifacts:superstitious_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "artifacts:villager_hat"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "minecraft:chests/village/village_taiga_house"
+}

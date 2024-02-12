@@ -1,0 +1,53 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "mythicmetals:aquarium_pearl"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "mythicmetals:banglum_chunk"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "mythicmetals:prometheum_bouquet"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "mythicmetals:durasteel_engine"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "mythicmetals:starrite"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "mythicmetals:unobtainium",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.01
+            }
+          ]
+        }
+      ]
+    }
+
+  ],
+  "random_sequence": "minecraft:chests/village/village_taiga_house"
+}
