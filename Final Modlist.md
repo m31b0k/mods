@@ -1,4 +1,4 @@
-No dependencies, just main mod
+ No dependencies, just main mod
 
 Yes
 - Extrablocks
